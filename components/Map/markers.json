@@ -1,0 +1,204 @@
+{
+    "markers":[
+        {"lat": "29.91857", "lng": "34.84458", "status": ".Vehicle Stopped"}
+,{"lat": "29.918781", "lng": "34.844308", "status": ".Vehicle In Motion"}
+,{"lat": "29.896153", "lng": "34.858261", "status": "\n    "}
+,{"lat": "29.863765", "lng": "34.849801", "status": ".Vehicle Stopped"}
+,{"lat": "29.86342", "lng": "34.849775", "status": ".Vehicle In Motion"}
+,{"lat": "29.863426", "lng": "34.849555", "status": "\n    "}
+,{"lat": "29.864016", "lng": "34.851626", "status": ".Vehicle Stopped"}
+,{"lat": "29.863688", "lng": "34.851363", "status": ".Vehicle In Motion"}
+,{"lat": "29.86363", "lng": "34.849813", "status": ".Vehicle Stopped"}
+,{"lat": "29.86429", "lng": "34.849698", "status": ".Vehicle In Motion"}
+,{"lat": "29.900981", "lng": "34.847111", "status": "\n    "}
+,{"lat": "29.91631", "lng": "34.845665", "status": ".Vehicle Stopped"}
+,{"lat": "29.916678", "lng": "34.845238", "status": ".Vehicle In Motion"}
+,{"lat": "29.92107", "lng": "34.847195", "status": ".Vehicle Stopped"}
+,{"lat": "29.921258", "lng": "34.846898", "status": ".Vehicle In Motion"}
+,{"lat": "29.929753", "lng": "34.840008", "status": "\n    "}
+,{"lat": "29.93288", "lng": "34.83816", "status": ".Vehicle Stopped"}
+,{"lat": "29.932786", "lng": "34.838416", "status": ".Vehicle In Motion"}
+,{"lat": "29.929935", "lng": "34.83992", "status": "\n    "}
+,{"lat": "29.9294", "lng": "34.837575", "status": ".Vehicle Stopped"}
+,{"lat": "29.929498", "lng": "34.837593", "status": "\n    "}
+,{"lat": "29.929265", "lng": "34.837916", "status": ".Vehicle In Motion"}
+,{"lat": "31.172015", "lng": "34.562681", "status": "\n    "}
+,{"lat": "31.171976", "lng": "34.562611", "status": "\n    "}
+,{"lat": "32.076165", "lng": "34.78699", "status": "\n    "}
+,{"lat": "32.076186", "lng": "34.786976", "status": "\n    "}
+,{"lat": "32.076196", "lng": "34.78698", "status": "\n    "}
+,{"lat": "32.07609", "lng": "34.787016", "status": "\n    "}
+,{"lat": "32.075718", "lng": "34.787775", "status": ".Vehicle In Motion"}
+,{"lat": "32.075781", "lng": "34.7907", "status": ".Vehicle Stopped"}
+,{"lat": "32.075835", "lng": "34.790626", "status": ".Ignition Off"}
+,{"lat": "32.075835", "lng": "34.790626", "status": "\n    "}
+,{"lat": "32.075835", "lng": "34.790626", "status": ".Ignition On"}
+,{"lat": "32.075808", "lng": "34.790608", "status": ".Driver ID"}
+,{"lat": "32.075808", "lng": "34.790608", "status": "\n    "}
+,{"lat": "32.075651", "lng": "34.78897", "status": ".Vehicle In Motion"}
+,{"lat": "32.07595", "lng": "34.787328", "status": ".Vehicle Stopped"}
+,{"lat": "32.075698", "lng": "34.787841", "status": ".Vehicle In Motion"}
+,{"lat": "32.074521", "lng": "34.788665", "status": ".Vehicle Stopped"}
+,{"lat": "32.074538", "lng": "34.788681", "status": "\n    "}
+,{"lat": "32.074328", "lng": "34.788971", "status": ".Vehicle In Motion"}
+,{"lat": "32.07675", "lng": "34.789748", "status": ".Vehicle Stopped"}
+,{"lat": "32.076898", "lng": "34.789508", "status": ".Vehicle In Motion"}
+,{"lat": "32.076075", "lng": "34.787321", "status": ".Vehicle Stopped"}
+,{"lat": "32.912203", "lng": "35.541318", "status": "\n    "}
+,{"lat": "32.967478", "lng": "35.550473", "status": "\n    "}
+,{"lat": "32.990218", "lng": "35.56285", "status": "\n    "}
+,{"lat": "33.000523", "lng": "35.598343", "status": "\n    "}
+,{"lat": "33.000493", "lng": "35.598351", "status": ".Vehicle Stopped"}
+,{"lat": "33.000831", "lng": "35.598783", "status": ".Vehicle In Motion"}
+,{"lat": "33.012946", "lng": "35.629931", "status": "\n    "}
+,{"lat": "33.012423", "lng": "35.648205", "status": "\n    "}
+,{"lat": "33.03469", "lng": "35.690828", "status": "\n    "}
+,{"lat": "33.05455", "lng": "35.732303", "status": "\n    "}
+,{"lat": "33.05586", "lng": "35.736713", "status": ".Vehicle Stopped"}
+,{"lat": "33.055003", "lng": "35.736713", "status": ".Vehicle In Motion"}
+,{"lat": "33.053763", "lng": "35.736418", "status": ".Vehicle Stopped"}
+,{"lat": "33.053941", "lng": "35.736998", "status": ".Vehicle In Motion"}
+,{"lat": "33.054676", "lng": "35.735828", "status": ".Ignition Off"}
+,{"lat": "33.054676", "lng": "35.735828", "status": ".Engine Off"}
+,{"lat": "33.054676", "lng": "35.735828", "status": ".Vehicle Stopped"}
+,{"lat": "33.054676", "lng": "35.735828", "status": "\n    "}
+,{"lat": "32.141738", "lng": "34.811404", "status": "\n    "}
+,{"lat": "32.141738", "lng": "34.811404", "status": ".Ignition On"}
+,{"lat": "32.141738", "lng": "34.811404", "status": ".Driver ID"}
+,{"lat": "32.141738", "lng": "34.811404", "status": "\n    "}
+,{"lat": "32.141684", "lng": "34.811428", "status": ".Engine On"}
+,{"lat": "32.142715", "lng": "34.812959", "status": ".Vehicle In Motion"}
+,{"lat": "32.1428", "lng": "34.81332", "status": "\n    "}
+,{"lat": "32.142375", "lng": "34.817464", "status": "\n    "}
+,{"lat": "32.143346", "lng": "34.817326", "status": "\n    "}
+,{"lat": "32.14519", "lng": "34.811473", "status": ".Vehicle Stopped"}
+,{"lat": "32.145201", "lng": "34.811469", "status": "\n    "}
+,{"lat": "32.145172", "lng": "34.811457", "status": "\n    "}
+,{"lat": "32.145182", "lng": "34.811486", "status": "\n    "}
+,{"lat": "32.145188", "lng": "34.811482", "status": ".Idling"}
+,{"lat": "32.145178", "lng": "34.811502", "status": "\n    "}
+,{"lat": "32.145049", "lng": "34.812179", "status": ".Vehicle In Motion"}
+,{"lat": "32.14239", "lng": "34.817382", "status": "\n    "}
+,{"lat": "32.142397", "lng": "34.8144", "status": "\n    "}
+,{"lat": "32.142428", "lng": "34.814288", "status": "\n    "}
+,{"lat": "32.141966", "lng": "34.812347", "status": ".Vehicle Stopped"}
+,{"lat": "32.141935", "lng": "34.812328", "status": "\n    "}
+,{"lat": "32.141433", "lng": "34.811955", "status": ".Vehicle In Motion"}
+,{"lat": "32.141431", "lng": "34.811675", "status": "\n    "}
+,{"lat": "32.141661", "lng": "34.811362", "status": "\n    "}
+,{"lat": "32.141729", "lng": "34.81141", "status": ".Vehicle Stopped"}
+,{"lat": "32.141664", "lng": "34.811422", "status": ".Ignition Off"}
+,{"lat": "32.141664", "lng": "34.811421", "status": ".Engine Off"}
+,{"lat": "32.141664", "lng": "34.811421", "status": "\n    "}
+,{"lat": "32.141453", "lng": "34.810579", "status": "\n    "}
+,{"lat": "32.141453", "lng": "34.810579", "status": "\n    "}
+,{"lat": "31.952933", "lng": "34.940838", "status": "\n    "}
+,{"lat": "32.013965", "lng": "34.96696", "status": "\n    "}
+,{"lat": "32.085625", "lng": "34.933546", "status": "\n    "}
+,{"lat": "32.160246", "lng": "34.96165", "status": "\n    "}
+,{"lat": "32.239481", "lng": "34.982381", "status": "\n    "}
+,{"lat": "32.321595", "lng": "35.012628", "status": "\n    "}
+,{"lat": "32.40458", "lng": "35.02064", "status": "\n    "}
+,{"lat": "32.484225", "lng": "35.033148", "status": "\n    "}
+,{"lat": "32.563561", "lng": "35.039971", "status": "\n    "}
+,{"lat": "32.63562", "lng": "35.064798", "status": "\n    "}
+,{"lat": "32.660343", "lng": "35.102486", "status": "\n    "}
+,{"lat": "32.681688", "lng": "35.108351", "status": "\n    "}
+,{"lat": "32.681688", "lng": "35.108351", "status": "\n    "}
+,{"lat": "32.681688", "lng": "35.108351", "status": "\n    "}
+,{"lat": "32.721845", "lng": "35.187338", "status": "\n    "}
+,{"lat": "31.603429", "lng": "34.504847", "status": "\n    "}
+,{"lat": "31.603429", "lng": "34.504847", "status": "\n    "}
+,{"lat": "31.99733", "lng": "34.773498", "status": ".Vehicle In Motion"}
+,{"lat": "32.006001", "lng": "34.784598", "status": "\n    "}
+,{"lat": "32.006001", "lng": "34.784598", "status": ".Vehicle Stopped"}
+,{"lat": "32.006606", "lng": "34.784666", "status": ".Vehicle In Motion"}
+,{"lat": "32.003718", "lng": "34.800491", "status": "\n    "}
+,{"lat": "31.963385", "lng": "34.784625", "status": "\n    "}
+,{"lat": "31.920173", "lng": "34.844446", "status": "\n    "}
+,{"lat": "31.877225", "lng": "34.876846", "status": "\n    "}
+,{"lat": "31.852451", "lng": "34.87045", "status": "\n    "}
+,{"lat": "31.78652", "lng": "34.831693", "status": "\n    "}
+,{"lat": "31.711276", "lng": "34.820453", "status": "\n    "}
+,{"lat": "31.633536", "lng": "34.814285", "status": "\n    "}
+,{"lat": "31.556155", "lng": "34.80156", "status": "\n    "}
+,{"lat": "31.507783", "lng": "34.782155", "status": "\n    "}
+,{"lat": "31.480306", "lng": "34.774973", "status": "\n    "}
+,{"lat": "32.981416", "lng": "35.511651", "status": "\n    "}
+,{"lat": "32.981416", "lng": "35.511651", "status": "\n    "}
+,{"lat": "32.981416", "lng": "35.511651", "status": "\n    "}
+,{"lat": "32.981416", "lng": "35.511651", "status": ".Ignition On"}
+,{"lat": "32.981416", "lng": "35.511651", "status": ".Driver ID"}
+,{"lat": "32.981416", "lng": "35.511651", "status": "\n    "}
+,{"lat": "32.981521", "lng": "35.511895", "status": ".Engine On"}
+,{"lat": "32.981603", "lng": "35.511826", "status": ".Ignition Off"}
+,{"lat": "32.981603", "lng": "35.511826", "status": ".Engine Off"}
+,{"lat": "32.981603", "lng": "35.511826", "status": "\n    "}
+,{"lat": "32.981603", "lng": "35.511826", "status": ".Ignition On"}
+,{"lat": "32.981506", "lng": "35.511895", "status": ".Driver ID"}
+,{"lat": "32.981506", "lng": "35.511895", "status": "\n    "}
+,{"lat": "32.981631", "lng": "35.511761", "status": ".Engine On"}
+,{"lat": "32.981553", "lng": "35.511753", "status": "\n    "}
+,{"lat": "32.981463", "lng": "35.511806", "status": "\n    "}
+,{"lat": "32.981616", "lng": "35.511736", "status": ".Idling"}
+,{"lat": "32.981413", "lng": "35.512206", "status": ".Vehicle In Motion"}
+,{"lat": "32.971306", "lng": "35.506951", "status": "\n    "}
+,{"lat": "30.652877", "lng": "34.781071", "status": "\n    "}
+,{"lat": "30.652877", "lng": "34.781071", "status": "\n    "}
+,{"lat": "31.954716", "lng": "34.836388", "status": "\n    "}
+,{"lat": "31.954716", "lng": "34.836388", "status": "\n    "}
+,{"lat": "32.434086", "lng": "34.90992", "status": "\n    "}
+,{"lat": "32.434085", "lng": "34.909918", "status": ".Vehicle Stopped"}
+,{"lat": "32.435108", "lng": "34.910091", "status": ".Vehicle In Motion"}
+,{"lat": "32.452201", "lng": "34.908366", "status": "\n    "}
+,{"lat": "32.4832", "lng": "34.921146", "status": "\n    "}
+,{"lat": "32.511565", "lng": "34.953098", "status": "\n    "}
+,{"lat": "32.521916", "lng": "34.95402", "status": ".Vehicle Stopped"}
+,{"lat": "32.521918", "lng": "34.954013", "status": ".Engine Off"}
+,{"lat": "32.521918", "lng": "34.954013", "status": ".Ignition Off"}
+,{"lat": "32.521918", "lng": "34.954013", "status": "\n    "}
+,{"lat": "32.521918", "lng": "34.954013", "status": "\n    "}
+,{"lat": "30.652874", "lng": "34.784713", "status": "\n    "}
+,{"lat": "30.652874", "lng": "34.784713", "status": "\n    "}
+,{"lat": "30.652874", "lng": "34.784713", "status": "\n    "}
+,{"lat": "32.456319", "lng": "35.028899", "status": "\n    "}
+,{"lat": "32.456319", "lng": "35.028899", "status": "\n    "}
+,{"lat": "31.915316", "lng": "34.880086", "status": "\n    "}
+,{"lat": "31.915316", "lng": "34.880086", "status": ".Ignition On"}
+,{"lat": "31.915316", "lng": "34.880086", "status": ".Driver ID"}
+,{"lat": "31.915316", "lng": "34.880086", "status": "\n    "}
+,{"lat": "31.915316", "lng": "34.880086", "status": ".Engine On"}
+,{"lat": "31.915316", "lng": "34.880086", "status": "\n    "}
+,{"lat": "31.916998", "lng": "34.878134", "status": ".Vehicle In Motion"}
+,{"lat": "31.917922", "lng": "34.877568", "status": "\n    "}
+,{"lat": "31.916032", "lng": "34.877185", "status": "\n    "}
+,{"lat": "31.912111", "lng": "34.87863", "status": ".Vehicle Stopped"}
+,{"lat": "31.912126", "lng": "34.878612", "status": "\n    "}
+,{"lat": "31.912125", "lng": "34.878601", "status": ".Ignition Off"}
+,{"lat": "31.912125", "lng": "34.878601", "status": ".Engine Off"}
+,{"lat": "31.912125", "lng": "34.878601", "status": "\n    "}
+,{"lat": "31.282018", "lng": "35.159481", "status": "\n    "}
+,{"lat": "31.282018", "lng": "35.159481", "status": "\n    "}
+,{"lat": "31.679423", "lng": "34.806948", "status": "\n    "}
+,{"lat": "31.619689", "lng": "34.814495", "status": ".Speed Exception 1"}
+,{"lat": "31.616797", "lng": "34.814246", "status": ".Speed Exception 2"}
+,{"lat": "31.531482", "lng": "34.792584", "status": "\n    "}
+,{"lat": "31.506793", "lng": "34.782384", "status": ".Vehicle Stopped"}
+,{"lat": "31.506756", "lng": "34.782393", "status": "\n    "}
+,{"lat": "31.506365", "lng": "34.78254", "status": ".Vehicle In Motion"}
+,{"lat": "31.488792", "lng": "34.778362", "status": "\n    "}
+,{"lat": "31.456985", "lng": "34.769511", "status": ".Speed Exception 1"}
+,{"lat": "31.422849", "lng": "34.78394", "status": "\n    "}
+,{"lat": "31.42324", "lng": "34.786894", "status": "\n    "}
+,{"lat": "31.422145", "lng": "34.788126", "status": "\n    "}
+,{"lat": "31.417925", "lng": "34.810356", "status": "\n    "}
+,{"lat": "31.409311", "lng": "34.826718", "status": "\n    "}
+,{"lat": "31.383388", "lng": "34.877858", "status": "\n    "}
+,{"lat": "31.393348", "lng": "34.879838", "status": "\n    "}
+,{"lat": "31.42754", "lng": "34.885659", "status": "\n    "}
+,{"lat": "31.436904", "lng": "34.864683", "status": "\n    "}
+,{"lat": "31.436858", "lng": "34.864728", "status": ".Vehicle Stopped"}
+,{"lat": "31.437634", "lng": "34.864193", "status": ".Vehicle In Motion"}
+,{"lat": "31.438668", "lng": "34.864352", "status": ".Vehicle Stopped"}
+    ]
+}
