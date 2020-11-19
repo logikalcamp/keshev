@@ -7,7 +7,7 @@ const completeConfig = {
   default: {
     appName,
     serverPort,
-    databaseUrl: process.env.MONGODB_URI || `mongodb://localhost/${databaseName}`,
+    databaseUrl:'mongodb+srv://root:A260196r.@routeplan-d416l.gcp.mongodb.net/keshev?retryWrites=true&w=majority',
     jsonOptions: {
       headers: {
         'Content-Type': 'application/json'

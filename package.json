@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -p 8080"
+    "start": "next start -p 8080",
+    "devel": "nodemon -w server -w package.json server/server.js",
+    "server": "NODE_ENV=production node server/server.js"
   },
   "dependencies": {
     "@chakra-ui/core": "^1.0.0-rc.8",
@@ -14,13 +16,19 @@
     "@material-ui/core": "^4.11.0",
     "classnames": "^2.2.6",
     "dayjs": "^1.9.5",
+    "dotenv": "^8.2.0",
     "emotion-theming": "^10.0.27",
+    "express": "^4.17.1",
     "framer-motion": "^2.9.4",
+    "glob": "^7.1.6",
     "leaflet": "^1.7.1",
     "lodash.set": "^4.3.2",
+    "mongoose": "^5.10.15",
     "next": "10.0.1",
     "next-offline": "^5.0.3",
     "next-pwa": "^3.1.5",
+    "next-routes": "^1.4.2",
+    "nodemon": "^2.0.6",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-icons": "^3.11.0",

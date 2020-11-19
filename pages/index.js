@@ -1,6 +1,5 @@
 import React,{useState} from "react";
 import FutureEvents from '../views/future_events'
-import MissingReportEvent from '../views/missing_reports'
 import cx from 'classnames'
 
 const Main = () => {

@@ -30,7 +30,7 @@ app.prepare().then(() => {
 
   // MongoDB
   mongoose.Promise = Promise
-  mongoose.connect(config.databaseUrl, { useMongoClient: true })
+  mongoose.connect(config.databaseUrl,{ useNewUrlParser: true })
   const db = mongoose.connection
   db.on('error', console.error.bind(console, 'connection error:'))
 

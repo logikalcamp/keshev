@@ -3,37 +3,37 @@ import Event from '../components/FutureEvent'
 
 const arr = [
     {
-        name:'אירוע עתידי',
+        name:'אירוע עבר',
         date:'10/12/2020',
         category:'אש'
     },
     {
-        name:'אירוע עתידי',
+        name:'אירוע עבר',
         date:'10/12/2020',
         category:'אש'
     },
     {
-        name:'אירוע עתידי',
+        name:'אירוע עבר',
         date:'10/12/2020',
         category:'אש'
     },
     {
-        name:'אירוע עתידי',
+        name:'אירוע עבר',
         date:'10/12/2020',
         category:'אש'
     },
     {
-        name:'אירוע עתידי',
+        name:'אירוע עבר',
         date:'10/12/2020',
         category:'אש'
     },
     {
-        name:'אירוע עתידי',
+        name:'אירוע עבר',
         date:'10/12/2020',
         category:'אש'
     },
     {
-        name:'אירוע עתידי',
+        name:'אירוע עבר',
         date:'10/12/2020',
         category:'אש'
     },
