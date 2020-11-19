@@ -427,6 +427,7 @@ module.exports = {
       12: "12",
     },
     outline: {
+      no: "none",
       none: ["2px solid transparent", "2px"],
       white: ["2px dotted white", "2px"],
       black: ["2px dotted black", "2px"],
