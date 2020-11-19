@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "next:dev": "next dev",
     "build": "next build",
-    "start": "next start -p 8080",
-    "devel": "nodemon -w server -w package.json server/server.js",
-    "server": "NODE_ENV=production node server/server.js"
+    "next": "next start -p 8080",
+    "dev": "nodemon -w server -w package.json server/server.js",
+    "start": "NODE_ENV=production node server/server.js"
   },
   "dependencies": {
     "@chakra-ui/core": "^1.0.0-rc.8",
