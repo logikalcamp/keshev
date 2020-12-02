@@ -1,0 +1,28 @@
+  header {
+    display: flex;
+    justify-content: center;
+  }
+  
+  input {
+    margin-left: 2vw;
+    margin-right: 2vw;
+  }
+  
+  .inline{
+    display: flex;
+  }
+  
+  .inline > p {
+    margin-right: 1vh ;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .inline > button {
+    margin-right: 3vh ;
+    margin-bottom: 1vh;
+  }
+  
+  li {
+    margin-bottom: 2vh;
+  }

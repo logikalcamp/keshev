@@ -1,7 +1,7 @@
 const appName = 'nextjs-express-mongoose-crudify-boilerplate'
 const databaseName = 'nextjs-express-boilerplate'
 const serverPort = process.env.PORT || 3122
-
+const pdf_server_url = "http://127.0.0.1:5000";
 const completeConfig = {
 
   default: {
@@ -28,5 +28,6 @@ const completeConfig = {
 // Public API
 module.exports = {
   config: { ...completeConfig.default, ...completeConfig[process.env.NODE_ENV] },
-  completeConfig
+  completeConfig,
+  pdf_server_url
 }
