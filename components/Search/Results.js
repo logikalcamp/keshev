@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import config from '../../config/config'
 //import pdf_analysis from '../hatal-analytics'
 
@@ -58,33 +58,37 @@ const Results = (props) => {
     const { results, track } = props.res
     let sorted_track = sort_object(track)
     return (
-        <div>
+        <div className = "mt-2">
             <h2>תוצאות: </h2>
             {Object.keys(track).length === 0 ? <p>לא נמצאו תוצאות.</p> :
+                <div>
+                <p className="my-2">סה"כ נמצאו {Object.keys(track).length} מסמכים המכילים את הביטוי:</p>
                 <ul>
                     {track && sorted_track.map((file, i) => {
                         let filename = file[0]
                         let num_of_occr = file[1]
-                        return <li key={i}>
+                        return <li className="mb-4" key={i}>
                             <div className="inline">
                                 <p className="filename">שם הקובץ: {filename}</p>
                                 {/*pdf_analysis.bindField("download button "+i, {"filename" : filename})*/}
-                                <button onClick={(e) => downloadPdf(e, filename, i)}>{"להורדה"}</button>
                             </div>
-                            <div className="inline"> מופיע בעמודים: {results.filter((obj) => {
+                            <div>תוכן: {results.filter(obj =>obj.name== filename)[0].sample}</div>
+                            <div className="flex"> מופיע בעמודים: {results.filter((obj) => {
                                 return obj.name === filename
                             })
                                 .sort((a, b) => b.page - a.page)
                                 .map((obj, i) => { return obj.page })
                                 .filter(onlyUnique)
-                                .map((page, i) => { return <p key={i}>{page + ""}</p> })}
+                                .map((page, i) => { return <p className="mr-1" key={i}>{"," + page }</p> })}
                             </div>
                                 סה"כ: {num_of_occr === 1 ? "מופיע פעם אחת במסמך" : num_of_occr + " הופעות במסמך"}
                             <br />
+                            <button className="text-indigo-500 background-transparent font-bold uppercase px-3 py-1 text-xs outline-none focus:outline-none mr-1 mb-1" type="button" style={{ transition: "all .15s ease" }} onClick={(e) => downloadPdf(e, filename, i)}>{"להורדה"}</button>
                         </li>
 
                     })}
                 </ul>
+                </div>
             }
         </div>
     )

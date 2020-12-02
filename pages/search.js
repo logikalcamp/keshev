@@ -28,18 +28,19 @@ const HomeScreen = (props) => {
 
 
     return (
-        <div>
+        <div className="mt-2 mr-2">
             <input
                 type="text"
                 name="phrase"
                 value={phrase}
                 id="phrase"
+                className="border border-gray-600"
                 onChange={(e) => {
 
                     setPhrase(e.target.value)
                 }}
             ></input>
-            <button type="button" onClick={searchPhrase} disabled={!phrase}>חפש</button>
+            <button className="border border-gray-600 mr-5" type="button" onClick={searchPhrase} disabled={!phrase}>חפש</button>
             <Uploder />
             {res &&
                 <div>
